@@ -1,0 +1,14 @@
+id,name,partNumber,photoPath,price,unit,vendorId
+1,"iPad Mini",ME180LL,NULL,296.99,1,1
+2,"iPad Mini 2",ME280LL,NULL,299.99,1,2
+3,"Hammermill Paper, Premium Multi-Purpose Paper Poly Wrap",105810,NULL,8.99,"1 Ream / 500 Sheets",3
+4,"HammerMill® Copy Plus Copy Paper, 8 1/2" x 11", Case",122374,NULL,29.99,"1 Case, 10 Reams, 500 Sheets per ream",4
+5,"Logitech M325 Wireless Optical Mouse, Ambidextrous, Black ",784551,NULL,14.99,1,4
+6,"Staples Mouse Pad, Black",382955,NULL,2.99,1,4
+7,"AOC 24-Inch Class LED Monitor",2122178,NULL,99.99,1,4
+8,"Laptop HP Notebook 15-AY163NR",2460649,NULL,529.99,1,4
+9,"Laptop Dell i3552-3240BLK 15.6"",2256788,NULL,239.99,1,4
+10,"Laptop Acer Acer™ Aspire One Cloudbook 14"",IM12M9520,NULL,224.99,1,4
+11,"Canon imageCLASS Copier (D530)",940600,NULL,99.99,1,4
+12,"Acer Aspire ATC-780A-UR12 Desktop Computer",228148,/images/AcerAspireDesktop.jpg,399.99,,5
+13,"Lenovo IdeaCentre All-In-One Desktop",279364,/images/LenovoIdeaCenter.jpg,349.99,,5

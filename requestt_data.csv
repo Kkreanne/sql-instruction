@@ -1,0 +1,4 @@
+id,dateNeeded,deliveryMode,description,justification,reasonForRejection,status,submittedDate,total,userId
+1,"2012-01-19 00:00:00.000000",standard,"Office Supplies","Job requires pens, highlighters, paper clips, etc",NULL,in-progress,"2019-11-18 00:00:00.000000",31.45,1
+2,"2001-01-20 00:00:00.000000",standard,"Printer Paper","Printer needs paper",NULL,in-progress,"2019-11-21 00:00:00.000000",8.99,2
+3,"2020-01-10 00:00:00.000000",expedited,"Wireless Mouse","2 new employees",NULL,in-progress,NULL,14.99,1

@@ -1,0 +1,1 @@
+update vendor set isActive = true;
